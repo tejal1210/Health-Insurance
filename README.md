@@ -2,8 +2,7 @@
 A dashboard website for a Health Insurance Company.
 Built using **PHP**, **MySQL**, **HTML**, **CSS**
 
-Login, logout, session, multilevel access, image uploads
-are implemented here.
+Login, logout, session, multilevel access, etc. are implemented here.
 
 ## Features
 - Agents can create clients
