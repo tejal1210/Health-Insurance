@@ -175,7 +175,7 @@ input[type=submit]:hover {
 	   }	 
 	  }else{ echo"Nothing found in Clients Table";echo"<br>";  echo"<br>"; 
 	  }
-	  ///////   SEARCHES IN NOMINEE
+	  ///////   SEARCHES IN CLAIMS
 	  
   
 	$sql = "SELECT * FROM claims WHERE claim_id LIKE '%" . $key .  "%' OR client_id LIKE '%" . $key ."%'";
