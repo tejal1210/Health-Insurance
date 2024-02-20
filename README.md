@@ -17,5 +17,5 @@ Assuming **XAMPP** is already installed in your local machine
 2. Edit the **lims/connection.php** file with your database username and password
 2. Go to http://localhost/phpmyadmin
 3. Create a database named **lims_final**
-3. import the **lims_final.sql** file provided in **database backup** folder
+3. Import the **lims_final.sql** file provided in **database backup** folder
 4. Go to http://localhost/lims/ if you see a login page, it is working
